@@ -1,4 +1,4 @@
 collatz
 =======
 
-Collatz on the Euler Project in Java.
+Collatz No. 14 on the Euler Project in Java.
